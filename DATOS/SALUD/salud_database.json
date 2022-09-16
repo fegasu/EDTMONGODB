@@ -1,0 +1,10 @@
+[
+{
+    "type": "header",
+    "version": "4.8.4",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "salud"
+},

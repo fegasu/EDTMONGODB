@@ -1,0 +1,796 @@
+db.persona.insertMany(
+[
+{
+    "idPersona": "18263",
+    "idTipoidentificacion": "1",
+    "nombre": "JOSE",
+    "apellido": "GAITAN",
+    "fechaNacimiento": "1979-07-20",
+    "sexo": "M"
+},
+{
+    "idPersona": "250025",
+    "idTipoidentificacion": "4",
+    "nombre": "LIZET",
+    "apellido": "GORDO",
+    "fechaNacimiento": "2000-06-23",
+    "sexo": "F"
+},
+{
+    "idPersona": "250344",
+    "idTipoidentificacion": "4",
+    "nombre": "KELLY",
+    "apellido": "REINO",
+    "fechaNacimiento": "2000-05-23",
+    "sexo": "F"
+},
+{
+    "idPersona": "1082019",
+    "idTipoidentificacion": "1",
+    "nombre": "MIGUEL",
+    "apellido": "PEREZ",
+    "fechaNacimiento": "1934-09-29",
+    "sexo": "M"
+},
+{
+    "idPersona": "2213052",
+    "idTipoidentificacion": "3",
+    "nombre": "CARLOS",
+    "apellido": "RIVERA",
+    "fechaNacimiento": "2009-01-08",
+    "sexo": "M"
+},
+{
+    "idPersona": "2254679",
+    "idTipoidentificacion": "4",
+    "nombre": "HANIA",
+    "apellido": "DAJOME",
+    "fechaNacimiento": "1983-03-07",
+    "sexo": "F"
+},
+{
+    "idPersona": "2356060",
+    "idTipoidentificacion": "1",
+    "nombre": "HECTOR",
+    "apellido": "MENDEZ",
+    "fechaNacimiento": "1947-06-19",
+    "sexo": "M"
+},
+{
+    "idPersona": "2746611",
+    "idTipoidentificacion": "1",
+    "nombre": "JESUS",
+    "apellido": "BUENO",
+    "fechaNacimiento": "1957-11-01",
+    "sexo": "M"
+},
+{
+    "idPersona": "2952910",
+    "idTipoidentificacion": "1",
+    "nombre": "ANGEL",
+    "apellido": "RAMIREZ",
+    "fechaNacimiento": "1937-11-23",
+    "sexo": "M"
+},
+{
+    "idPersona": "4186277",
+    "idTipoidentificacion": "1",
+    "nombre": "AQUILINO",
+    "apellido": "SIERRA",
+    "fechaNacimiento": "1952-11-19",
+    "sexo": "M"
+},
+{
+    "idPersona": "6611537",
+    "idTipoidentificacion": "1",
+    "nombre": "MOISES",
+    "apellido": "MALDONADO",
+    "fechaNacimiento": "1936-10-06",
+    "sexo": "M"
+},
+{
+    "idPersona": "7276950",
+    "idTipoidentificacion": "1",
+    "nombre": "CELSO",
+    "apellido": "SALAMANCA",
+    "fechaNacimiento": "1972-06-15",
+    "sexo": "M"
+},
+{
+    "idPersona": "8190364",
+    "idTipoidentificacion": "1",
+    "nombre": "EIVAR",
+    "apellido": "BERGARA",
+    "fechaNacimiento": "1955-08-01",
+    "sexo": "M"
+},
+{
+    "idPersona": "9267617",
+    "idTipoidentificacion": "4",
+    "nombre": "JHON,",
+    "apellido": "GAITAN",
+    "fechaNacimiento": "1990-09-26",
+    "sexo": "M"
+},
+{
+    "idPersona": "9307252",
+    "idTipoidentificacion": "2",
+    "nombre": "EDIER",
+    "apellido": "GARCIA",
+    "fechaNacimiento": "1993-07-25",
+    "sexo": "M"
+},
+{
+    "idPersona": "12196489",
+    "idTipoidentificacion": "1",
+    "nombre": "ALEXANDER",
+    "apellido": "IBARRA",
+    "fechaNacimiento": "1975-09-15",
+    "sexo": "M"
+},
+{
+    "idPersona": "17339368",
+    "idTipoidentificacion": "1",
+    "nombre": "HECTOR",
+    "apellido": "LENIS",
+    "fechaNacimiento": "1967-05-14",
+    "sexo": "M"
+},
+{
+    "idPersona": "17340110",
+    "idTipoidentificacion": "1",
+    "nombre": "EDGAR",
+    "apellido": "DIAZ",
+    "fechaNacimiento": "1967-09-04",
+    "sexo": "M"
+},
+{
+    "idPersona": "17360310",
+    "idTipoidentificacion": "1",
+    "nombre": "MILTON",
+    "apellido": "BURGOS",
+    "fechaNacimiento": "1964-02-20",
+    "sexo": "M"
+},
+{
+    "idPersona": "17388376",
+    "idTipoidentificacion": "1",
+    "nombre": "RAMON",
+    "apellido": "ALARCON",
+    "fechaNacimiento": "1970-01-09",
+    "sexo": "M"
+},
+{
+    "idPersona": "17388487",
+    "idTipoidentificacion": "1",
+    "nombre": "WILSON",
+    "apellido": "CACERES",
+    "fechaNacimiento": "1970-02-20",
+    "sexo": "M"
+},
+{
+    "idPersona": "17389974",
+    "idTipoidentificacion": "1",
+    "nombre": "EUCLIDES",
+    "apellido": "SUAREZ",
+    "fechaNacimiento": "1978-09-04",
+    "sexo": "M"
+},
+{
+    "idPersona": "18256624",
+    "idTipoidentificacion": "1",
+    "nombre": "FREDY",
+    "apellido": "JIMENEZ",
+    "fechaNacimiento": "1979-10-24",
+    "sexo": "M"
+},
+{
+    "idPersona": "18262730",
+    "idTipoidentificacion": "1",
+    "nombre": "WILLIAN",
+    "apellido": "SANTANA",
+    "fechaNacimiento": "1976-12-19",
+    "sexo": "M"
+},
+{
+    "idPersona": "18263392",
+    "idTipoidentificacion": "1",
+    "nombre": "JULIO",
+    "apellido": "SANABRIA",
+    "fechaNacimiento": "1982-04-18",
+    "sexo": "M"
+},
+{
+    "idPersona": "21184191",
+    "idTipoidentificacion": "1",
+    "nombre": "MARIA",
+    "apellido": "ACOSTA",
+    "fechaNacimiento": "1934-09-27",
+    "sexo": "M"
+},
+{
+    "idPersona": "21249349",
+    "idTipoidentificacion": "1",
+    "nombre": "NUBIA",
+    "apellido": "VALERO",
+    "fechaNacimiento": "1973-06-08",
+    "sexo": "F"
+},
+{
+    "idPersona": "23834813",
+    "idTipoidentificacion": "1",
+    "nombre": "MARIA",
+    "apellido": "CORTES",
+    "fechaNacimiento": "1954-07-11",
+    "sexo": "F"
+},
+{
+    "idPersona": "23836167",
+    "idTipoidentificacion": "1",
+    "nombre": "MARTHA",
+    "apellido": "PERDOMO",
+    "fechaNacimiento": "1969-01-30",
+    "sexo": "F"
+},
+{
+    "idPersona": "26542999",
+    "idTipoidentificacion": "1",
+    "nombre": "SANDRA",
+    "apellido": "VARGAS",
+    "fechaNacimiento": "1979-08-21",
+    "sexo": "F"
+},
+{
+    "idPersona": "26632648",
+    "idTipoidentificacion": "1",
+    "nombre": "MYRIAM",
+    "apellido": "GOMEZ",
+    "fechaNacimiento": "1961-05-15",
+    "sexo": "F"
+},
+{
+    "idPersona": "27385092",
+    "idTipoidentificacion": "4",
+    "nombre": "ANLLELY",
+    "apellido": "IBARRA",
+    "fechaNacimiento": "2007-07-04",
+    "sexo": "F"
+},
+{
+    "idPersona": "30215164",
+    "idTipoidentificacion": "1",
+    "nombre": "MARIA",
+    "apellido": "GAITAN",
+    "fechaNacimiento": "1928-12-31",
+    "sexo": "F"
+},
+{
+    "idPersona": "30937299",
+    "idTipoidentificacion": "1",
+    "nombre": "MARIA",
+    "apellido": "SANCHEZ",
+    "fechaNacimiento": "1978-07-25",
+    "sexo": "F"
+},
+{
+    "idPersona": "33001267",
+    "idTipoidentificacion": "2",
+    "nombre": "GERSON",
+    "apellido": "PRADA",
+    "fechaNacimiento": "1995-03-30",
+    "sexo": "M"
+},
+{
+    "idPersona": "40216231",
+    "idTipoidentificacion": "1",
+    "nombre": "JENNY",
+    "apellido": "GARCIA",
+    "fechaNacimiento": "1982-04-02",
+    "sexo": "F"
+},
+{
+    "idPersona": "40270715",
+    "idTipoidentificacion": "1",
+    "nombre": "ANA",
+    "apellido": "HERNANDEZ",
+    "fechaNacimiento": "1959-07-25",
+    "sexo": "F"
+},
+{
+    "idPersona": "40382477",
+    "idTipoidentificacion": "1",
+    "nombre": "LUZ",
+    "apellido": "ARANA",
+    "fechaNacimiento": "1968-01-18",
+    "sexo": "F"
+},
+{
+    "idPersona": "40417149",
+    "idTipoidentificacion": "1",
+    "nombre": "JANETH",
+    "apellido": "BARRETO",
+    "fechaNacimiento": "1977-02-22",
+    "sexo": "F"
+},
+{
+    "idPersona": "40417370",
+    "idTipoidentificacion": "1",
+    "nombre": "NURY",
+    "apellido": "VARGAS",
+    "fechaNacimiento": "1974-02-17",
+    "sexo": "F"
+},
+{
+    "idPersona": "40417953",
+    "idTipoidentificacion": "1",
+    "nombre": "MARITZA",
+    "apellido": "PRIETO",
+    "fechaNacimiento": "1976-04-06",
+    "sexo": "F"
+},
+{
+    "idPersona": "40419253",
+    "idTipoidentificacion": "1",
+    "nombre": "ANA",
+    "apellido": "SANABRIA",
+    "fechaNacimiento": "1981-02-25",
+    "sexo": "F"
+},
+{
+    "idPersona": "40419288",
+    "idTipoidentificacion": "1",
+    "nombre": "SILVANA",
+    "apellido": "ANGULO",
+    "fechaNacimiento": "1970-04-05",
+    "sexo": "F"
+},
+{
+    "idPersona": "40771163",
+    "idTipoidentificacion": "1",
+    "nombre": "GLORIA",
+    "apellido": "MEDINA",
+    "fechaNacimiento": "1968-03-21",
+    "sexo": "F"
+},
+{
+    "idPersona": "41250448",
+    "idTipoidentificacion": "1",
+    "nombre": "NINFA",
+    "apellido": "GARCIA",
+    "fechaNacimiento": "1959-07-05",
+    "sexo": "F"
+},
+{
+    "idPersona": "41479669",
+    "idTipoidentificacion": "1",
+    "nombre": "LEONOR",
+    "apellido": "APOLINAR",
+    "fechaNacimiento": "1946-08-18",
+    "sexo": "F"
+},
+{
+    "idPersona": "47425902",
+    "idTipoidentificacion": "1",
+    "nombre": "NANCY",
+    "apellido": "OROS",
+    "fechaNacimiento": "1973-10-22",
+    "sexo": "F"
+},
+{
+    "idPersona": "52158989",
+    "idTipoidentificacion": "1",
+    "nombre": "MARILEIS",
+    "apellido": "CAMACHO",
+    "fechaNacimiento": "1975-05-29",
+    "sexo": "F"
+},
+{
+    "idPersona": "52377972",
+    "idTipoidentificacion": "1",
+    "nombre": "ANA",
+    "apellido": "ALGARRA",
+    "fechaNacimiento": "1970-01-12",
+    "sexo": "F"
+},
+{
+    "idPersona": "55212231",
+    "idTipoidentificacion": "1",
+    "nombre": "EDITH",
+    "apellido": "GOMEZ",
+    "fechaNacimiento": "1980-05-22",
+    "sexo": "F"
+},
+{
+    "idPersona": "65799510",
+    "idTipoidentificacion": "1",
+    "nombre": "CARMEN",
+    "apellido": "CASTANEDA",
+    "fechaNacimiento": "1976-12-30",
+    "sexo": "F"
+},
+{
+    "idPersona": "79600774",
+    "idTipoidentificacion": "1",
+    "nombre": "ALEXIS",
+    "apellido": "HERRERA",
+    "fechaNacimiento": "1972-10-05",
+    "sexo": "M"
+},
+{
+    "idPersona": "82154809",
+    "idTipoidentificacion": "4",
+    "nombre": "KAREN",
+    "apellido": "CASTIBLANCO",
+    "fechaNacimiento": "2005-03-29",
+    "sexo": "F"
+},
+{
+    "idPersona": "86003367",
+    "idTipoidentificacion": "1",
+    "nombre": "KENNEDY",
+    "apellido": "LUGO",
+    "fechaNacimiento": "1962-05-18",
+    "sexo": "M"
+},
+{
+    "idPersona": "86050207",
+    "idTipoidentificacion": "1",
+    "nombre": "JHON",
+    "apellido": "GOMEZ",
+    "fechaNacimiento": "1976-03-08",
+    "sexo": "M"
+},
+{
+    "idPersona": "86055321",
+    "idTipoidentificacion": "1",
+    "nombre": "CARLOS",
+    "apellido": "HERRERA",
+    "fechaNacimiento": "1971-08-28",
+    "sexo": "M"
+},
+{
+    "idPersona": "91106202",
+    "idTipoidentificacion": "1",
+    "nombre": "LUIS",
+    "apellido": "PRADA",
+    "fechaNacimiento": "1967-12-22",
+    "sexo": "M"
+},
+{
+    "idPersona": "92373541",
+    "idTipoidentificacion": "2",
+    "nombre": "JOSE",
+    "apellido": "GONZALEZ",
+    "fechaNacimiento": "1998-09-23",
+    "sexo": "M"
+},
+{
+    "idPersona": "93115847",
+    "idTipoidentificacion": "1",
+    "nombre": "ARTURO",
+    "apellido": "ARIAS",
+    "fechaNacimiento": "1958-07-05",
+    "sexo": "M"
+},
+{
+    "idPersona": "96195585",
+    "idTipoidentificacion": "1",
+    "nombre": "GONZALO",
+    "apellido": "GUEVARA",
+    "fechaNacimiento": "1984-11-10",
+    "sexo": "M"
+},
+{
+    "idPersona": "97610314",
+    "idTipoidentificacion": "1",
+    "nombre": "YEINER",
+    "apellido": "MEDELLIN",
+    "fechaNacimiento": "1982-12-26",
+    "sexo": "M"
+},
+{
+    "idPersona": "103251438",
+    "idTipoidentificacion": "2",
+    "nombre": "JIMMY",
+    "apellido": "CARDENAS",
+    "fechaNacimiento": "1991-03-25",
+    "sexo": "M"
+},
+{
+    "idPersona": "110763859",
+    "idTipoidentificacion": "2",
+    "nombre": "ANGIE",
+    "apellido": "HERRERA",
+    "fechaNacimiento": "1998-11-07",
+    "sexo": "F"
+},
+{
+    "idPersona": "206276711",
+    "idTipoidentificacion": "2",
+    "nombre": "DAELLA",
+    "apellido": "CARVAJAL",
+    "fechaNacimiento": "1992-06-27",
+    "sexo": "F"
+},
+{
+    "idPersona": "769086765",
+    "idTipoidentificacion": "1",
+    "nombre": "ARLETH",
+    "apellido": "BRAVO",
+    "fechaNacimiento": "1965-11-11",
+    "sexo": "F"
+},
+{
+    "idPersona": "970417088",
+    "idTipoidentificacion": "2",
+    "nombre": "JORGE",
+    "apellido": "MONCADA",
+    "fechaNacimiento": "1997-04-17",
+    "sexo": "M"
+},
+{
+    "idPersona": "990014543",
+    "idTipoidentificacion": "3",
+    "nombre": "JERSON",
+    "apellido": "GAITAN",
+    "fechaNacimiento": "1994-02-23",
+    "sexo": "M"
+},
+{
+    "idPersona": "990014705",
+    "idTipoidentificacion": "3",
+    "nombre": "CARIN",
+    "apellido": "PENA",
+    "fechaNacimiento": "1998-06-29",
+    "sexo": "M"
+},
+{
+    "idPersona": "1010045484",
+    "idTipoidentificacion": "2",
+    "nombre": "LILIANA",
+    "apellido": "OROS",
+    "fechaNacimiento": "1995-08-26",
+    "sexo": "F"
+},
+{
+    "idPersona": "1010080473",
+    "idTipoidentificacion": "1",
+    "nombre": "ELKIN",
+    "apellido": "SANCHEZ",
+    "fechaNacimiento": "1989-06-29",
+    "sexo": "M"
+},
+{
+    "idPersona": "1010081989",
+    "idTipoidentificacion": "2",
+    "nombre": "SOLANLLI",
+    "apellido": "SIERRA",
+    "fechaNacimiento": "1996-03-29",
+    "sexo": "F"
+},
+{
+    "idPersona": "1026553762",
+    "idTipoidentificacion": "1",
+    "nombre": "JOSE",
+    "apellido": "ALARCON",
+    "fechaNacimiento": "1977-11-13",
+    "sexo": "M"
+},
+{
+    "idPersona": "1052390132",
+    "idTipoidentificacion": "4",
+    "nombre": "DAINNY",
+    "apellido": "ALARCON",
+    "fechaNacimiento": "2008-02-09",
+    "sexo": "F"
+},
+{
+    "idPersona": "1057583006",
+    "idTipoidentificacion": "1",
+    "nombre": "ANA",
+    "apellido": "RIOS",
+    "fechaNacimiento": "1990-01-02",
+    "sexo": "F"
+},
+{
+    "idPersona": "1081406547",
+    "idTipoidentificacion": "4",
+    "nombre": "JADER",
+    "apellido": "BARRAGAN",
+    "fechaNacimiento": "2008-12-05",
+    "sexo": "M"
+},
+{
+    "idPersona": "1105611093",
+    "idTipoidentificacion": "4",
+    "nombre": "ANYHI",
+    "apellido": "CASTILLA",
+    "fechaNacimiento": "2005-03-18",
+    "sexo": "F"
+},
+{
+    "idPersona": "1120865708",
+    "idTipoidentificacion": "1",
+    "nombre": "GLORI",
+    "apellido": "JIMENEZ",
+    "fechaNacimiento": "1986-09-13",
+    "sexo": "F"
+},
+{
+    "idPersona": "1121816195",
+    "idTipoidentificacion": "1",
+    "nombre": "YENNI",
+    "apellido": "OLMOS",
+    "fechaNacimiento": "1985-12-14",
+    "sexo": "F"
+},
+{
+    "idPersona": "1121850975",
+    "idTipoidentificacion": "4",
+    "nombre": "ISAIT",
+    "apellido": "AMADO",
+    "fechaNacimiento": "2007-04-02",
+    "sexo": "F"
+},
+{
+    "idPersona": "1122513211",
+    "idTipoidentificacion": "4",
+    "nombre": "HAROLD",
+    "apellido": "SANTANA",
+    "fechaNacimiento": "2006-05-15",
+    "sexo": "M"
+},
+{
+    "idPersona": "1122722735",
+    "idTipoidentificacion": "1",
+    "nombre": "MARLLURY",
+    "apellido": "TOVAR",
+    "fechaNacimiento": "1985-04-28",
+    "sexo": "F"
+},
+{
+    "idPersona": "1126704602",
+    "idTipoidentificacion": "4",
+    "nombre": "SHAILYN",
+    "apellido": "ROJAS",
+    "fechaNacimiento": "2009-11-22",
+    "sexo": "F"
+},
+{
+    "idPersona": "1127385269",
+    "idTipoidentificacion": "1",
+    "nombre": "JHON",
+    "apellido": "LAGUNA",
+    "fechaNacimiento": "1989-05-27",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127385618",
+    "idTipoidentificacion": "4",
+    "nombre": "JHULLDER",
+    "apellido": "BELTRAN",
+    "fechaNacimiento": "2008-04-08",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127385785",
+    "idTipoidentificacion": "1",
+    "nombre": "WILLIAN",
+    "apellido": "GUAYABO",
+    "fechaNacimiento": "1990-06-29",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127386495",
+    "idTipoidentificacion": "4",
+    "nombre": "YEFERSSON",
+    "apellido": "ROJAS",
+    "fechaNacimiento": "2009-05-26",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127386763",
+    "idTipoidentificacion": "4",
+    "nombre": "DIDIER",
+    "apellido": "OROS",
+    "fechaNacimiento": "2009-10-14",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722084",
+    "idTipoidentificacion": "4",
+    "nombre": "JUAN",
+    "apellido": "JIMENEZ",
+    "fechaNacimiento": "2004-02-10",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722326",
+    "idTipoidentificacion": "4",
+    "nombre": "ELKAN",
+    "apellido": "OROS",
+    "fechaNacimiento": "2004-03-05",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722513",
+    "idTipoidentificacion": "4",
+    "nombre": "WESLER",
+    "apellido": "LUGO",
+    "fechaNacimiento": "2006-01-06",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722523",
+    "idTipoidentificacion": "4",
+    "nombre": "LUIS",
+    "apellido": "BARRETO",
+    "fechaNacimiento": "2006-01-31",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722565",
+    "idTipoidentificacion": "4",
+    "nombre": "CARLOS",
+    "apellido": "SANTANA",
+    "fechaNacimiento": "2005-04-12",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722566",
+    "idTipoidentificacion": "4",
+    "nombre": " SEBASTIAN",
+    "apellido": "RINCON",
+    "fechaNacimiento": "2006-03-05",
+    "sexo": "M"
+},
+{
+    "idPersona": "1127722591",
+    "idTipoidentificacion": "4",
+    "nombre": "LAURA",
+    "apellido": "BELTRAN",
+    "fechaNacimiento": "2006-09-07",
+    "sexo": "F"
+},
+{
+    "idPersona": "1127722954",
+    "idTipoidentificacion": "4",
+    "nombre": "WILLIAN",
+    "apellido": "GUAYABO",
+    "fechaNacimiento": "2007-07-25",
+    "sexo": "M"
+},
+{
+    "idPersona": "1192213089",
+    "idTipoidentificacion": "4",
+    "nombre": "EMANUEL",
+    "apellido": "BABATIVA",
+    "fechaNacimiento": "2009-07-08",
+    "sexo": "M"
+},
+{
+    "idPersona": "1192748085",
+    "idTipoidentificacion": "2",
+    "nombre": "KEILA",
+    "apellido": "GARCIA",
+    "fechaNacimiento": "1997-04-22",
+    "sexo": "F"
+},
+{
+    "idPersona": "1192748086",
+    "idTipoidentificacion": "2",
+    "nombre": "DANIEL",
+    "apellido": "GARCIA",
+    "fechaNacimiento": "1999-11-22",
+    "sexo": "M"
+},
+{
+    "idPersona": "2147483647",
+    "idTipoidentificacion": "2",
+    "nombre": "YORMAN",
+    "apellido": "OLMOS",
+    "fechaNacimiento": "1992-12-24",
+    "sexo": "M"
+}
+]
+)

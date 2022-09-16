@@ -1,0 +1,1 @@
+start chrome https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode

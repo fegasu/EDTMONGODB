@@ -1,0 +1,74 @@
+db.eps.insertMany(
+[
+{
+    "ideps": "1",
+    "nombre": "SALUDCOOP",
+    "estadoeps": "4"
+},
+{
+    "ideps": "2",
+    "nombre": "CAFESALUD",
+    "estadoeps": "1"
+},
+{
+    "ideps": "3",
+    "nombre": "NUEVA EPS",
+    "estadoeps": "1"
+},
+{
+    "ideps": "4",
+    "nombre": "ISS",
+    "estadoeps": "5"
+},
+{
+    "ideps": "5",
+    "nombre": "CAPRECOM",
+    "estadoeps": "4"
+},
+{
+    "ideps": "6",
+    "nombre": "COOMEVA",
+    "estadoeps": "1"
+},
+{
+    "ideps": "7",
+    "nombre": "COMPENSAR",
+    "estadoeps": "1"
+},
+{
+    "ideps": "8",
+    "nombre": "COLMEDICA",
+    "estadoeps": "1"
+},
+{
+    "ideps": "9",
+    "nombre": "HUMANA VIVIR",
+    "estadoeps": "2"
+},
+{
+    "ideps": "10",
+    "nombre": "FAMISANAR",
+    "estadoeps": "1"
+},
+{
+    "ideps": "11",
+    "nombre": "CRUZ BLANCA",
+    "estadoeps": "3"
+},
+{
+    "ideps": "12",
+    "nombre": "SOLSALUD",
+    "estadoeps": "1"
+},
+{
+    "ideps": "13",
+    "nombre": "SALUD TOTAL",
+    "estadoeps": "5"
+},
+{
+    "ideps": "14",
+    "nombre": "SANITAS",
+    "estadoeps": "3"
+}
+]
+)

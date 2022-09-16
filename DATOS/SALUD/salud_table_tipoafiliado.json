@@ -1,0 +1,24 @@
+db.tipoafiliado.insertMany(
+[
+{
+    "idTipoAfiliado": "1",
+    "descripcion": "Cotizante"
+},
+{
+    "idTipoAfiliado": "2",
+    "descripcion": "Beneficiario"
+},
+{
+    "idTipoAfiliado": "3",
+    "descripcion": "Subsidiado"
+},
+{
+    "idTipoAfiliado": "4",
+    "descripcion": "Fosiga"
+},
+{
+    "idTipoAfiliado": "5",
+    "descripcion": "Sisben"
+}
+]
+)

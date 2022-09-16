@@ -1,0 +1,20 @@
+db.estadopersona.insertMany(
+[
+{
+    "idEstadoPersona": "1",
+    "descripcion": "Activo"
+},
+{
+    "idEstadoPersona": "2",
+    "descripcion": "Afiliado"
+},
+{
+    "idEstadoPersona": "3",
+    "descripcion": "Cesante"
+},
+{
+    "idEstadoPersona": "4",
+    "descripcion": "Retirado"
+}
+]
+)

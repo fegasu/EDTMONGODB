@@ -1,0 +1,704 @@
+db.servicioeps.insertMany( 
+[
+{
+    "ideps": "1",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "3",
+    "estado": "I",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "4",
+    "estado": "A",
+    "valor": "156000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "7",
+    "estado": "I",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "8",
+    "estado": "A",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "9",
+    "estado": "A",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "1",
+    "idtiposervicio": "10",
+    "estado": "I",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "3",
+    "estado": "I",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "4",
+    "estado": "A",
+    "valor": "156000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "7",
+    "estado": "I",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "8",
+    "estado": "A",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "9",
+    "estado": "A",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "2",
+    "idtiposervicio": "10",
+    "estado": "I",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "3",
+    "estado": "I",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "4",
+    "estado": "A",
+    "valor": "156000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "7",
+    "estado": "I",
+    "valor": "78000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "8",
+    "estado": "A",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "9",
+    "estado": "A",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "3",
+    "idtiposervicio": "10",
+    "estado": "I",
+    "valor": "96000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "1",
+    "estado": "I",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "3",
+    "estado": "I",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "6",
+    "estado": "I",
+    "valor": "556000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "8",
+    "estado": "A",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "4",
+    "idtiposervicio": "10",
+    "estado": "I",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "1",
+    "estado": "I",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "3",
+    "estado": "I",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "6",
+    "estado": "I",
+    "valor": "556000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "8",
+    "estado": "A",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "5",
+    "idtiposervicio": "10",
+    "estado": "I",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "3",
+    "estado": "A",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "8",
+    "estado": "I",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "6",
+    "idtiposervicio": "10",
+    "estado": "A",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "3",
+    "estado": "A",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "CIRUGIA"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "8",
+    "estado": "I",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "7",
+    "idtiposervicio": "10",
+    "estado": "A",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "3",
+    "estado": "A",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "ADICIONAL"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "ADICIONAL"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "8",
+    "estado": "I",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "8",
+    "idtiposervicio": "10",
+    "estado": "A",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "3",
+    "estado": "A",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "ADICIONAL"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "ADICIONAL"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "8",
+    "estado": "I",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "9",
+    "idtiposervicio": "10",
+    "estado": "A",
+    "valor": "96000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "1",
+    "estado": "A",
+    "valor": "56000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "2",
+    "estado": "A",
+    "valor": "28000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "3",
+    "estado": "A",
+    "valor": "36000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "4",
+    "estado": "I",
+    "valor": "156000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "5",
+    "estado": "I",
+    "valor": "256000",
+    "detalle": "ADICIONAL"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "6",
+    "estado": "A",
+    "valor": "556000",
+    "detalle": "ADICIONAL"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "7",
+    "estado": "A",
+    "valor": "78000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "8",
+    "estado": "I",
+    "valor": "6000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "9",
+    "estado": "I",
+    "valor": "76000",
+    "detalle": "COPAGO"
+},
+{
+    "ideps": "10",
+    "idtiposervicio": "10",
+    "estado": "A",
+    "valor": "96000",
+    "detalle": "COPAGO"
+}
+]
+)

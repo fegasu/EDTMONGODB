@@ -1,0 +1,43 @@
+db.tiposervicio.insertMany([
+{
+    "idTipoServicio": "1",
+    "descripcion": "Consulta medico general"
+},
+{
+    "idTipoServicio": "2",
+    "descripcion": "Consulta especialista"
+},
+{
+    "idTipoServicio": "3",
+    "descripcion": "Consulta unidad de urgencias"
+},
+{
+    "idTipoServicio": "4",
+    "descripcion": "Consulta externa"
+},
+{
+    "idTipoServicio": "5",
+    "descripcion": "Odontologia"
+},
+{
+    "idTipoServicio": "6",
+    "descripcion": "Radiologia"
+},
+{
+    "idTipoServicio": "7",
+    "descripcion": "Consulta unidad de pediatra"
+},
+{
+    "idTipoServicio": "8",
+    "descripcion": "Consulta interna"
+},
+{
+    "idTipoServicio": "9",
+    "descripcion": "Unidad de cuidados intensivos"
+},
+{
+    "idTipoServicio": "10",
+    "descripcion": "Consulta psiquiatria"
+}
+]
+)
