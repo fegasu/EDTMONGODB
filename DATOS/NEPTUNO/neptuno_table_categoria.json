@@ -1,0 +1,42 @@
+[
+ {
+   "IdCategoria": 1,
+   "NombreCategoria": "Bebidas",
+   "Descripcion": "Gaseosas, caf?, t?, cervezas y maltas"
+ },
+ {
+   "IdCategoria": 2,
+   "NombreCategoria": "Condimentos",
+   "Descripcion": "Salsas dulces y picantes, delicias, comida para untar y aderezos"
+ },
+ {
+   "IdCategoria": 3,
+   "NombreCategoria": "Reposter?a",
+   "Descripcion": "Postres, dulces y pan dulce"
+ },
+ {
+   "IdCategoria": 4,
+   "NombreCategoria": "L?cteos",
+   "Descripcion": "Quesos"
+ },
+ {
+   "IdCategoria": 5,
+   "NombreCategoria": "Granos/Cereales",
+   "Descripcion": "Pan, galletas, pasta y cereales"
+ },
+ {
+   "IdCategoria": 6,
+   "NombreCategoria": "Carnes",
+   "Descripcion": "Carnes preparadas"
+ },
+ {
+   "IdCategoria": 7,
+   "NombreCategoria": "Frutas/Verduras",
+   "Descripcion": "Frutas secas y queso de soja"
+ },
+ {
+   "IdCategoria": 8,
+   "NombreCategoria": "Pescado/Marisco",
+   "Descripcion": "Pescados, mariscos y algas"
+ }
+]
