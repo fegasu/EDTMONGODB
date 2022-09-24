@@ -1,5 +1,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php
+function Escribir($fp,$que){
+    fwrite($fp,$que.chr(10));
+}
 $data = [];
 $archi=$argv[1];
 for($i=0;$i<24;$i++) 
@@ -43,7 +46,8 @@ if($j<count($c)-1)
 $sal.=',' ;
 }
 $sal.='});';
-fwrite($fp,$sal.chr(10));
+//fwrite($fp,$sal.chr(10));
+Escribir($fp,$sal);
 }
 fclose($fp);
 echo chr(10)."____________________________________________________".chr(10);
