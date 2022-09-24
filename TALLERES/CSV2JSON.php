@@ -31,7 +31,7 @@ for($i=1;$i<count($data);$i++){
 //$c=explode(';',$data[$i]);
 $c=explode($sep==0?';':',',$data[$i]);
 $sal='{';
-for($j=0;$j<count($c)-1;$j++){
+for($j=0;$j<count($c);$j++){
 $q='';
 if($c[$j]!=""){
 if(is_numeric($c[$j])==$c[$j]){
@@ -42,12 +42,16 @@ $q=chr(39).preg_replace( "/\r|\n/", "", $c[$j] ).chr(39);
 
 $sal.=$b[$j].':'.$q;
 }
-if($j<count($c)-1)
+if($j<$columnas-1)
 $sal.=',' ;
 }
+if($i<$filas-1)
 $sal.='},';
+else
+$sal.='}';
 Escribir($fp,$sal);
 }
+
 Escribir($fp,"]");
 
 fclose($fp);
