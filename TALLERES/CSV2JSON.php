@@ -13,7 +13,7 @@ $fp=fopen($archi.".json","w");
 $fp=fopen($archi.".json","w");
 $sep1=count(explode(';',$data[0]));
 $sep2=count(explode(',',$data[0]));
-
+Escribir($fp,"[");
 $sep=$sep1>$sep2?0:1;
 echo $sep==0?'[;]':'[,]';
 
@@ -30,7 +30,7 @@ $b[$i]=preg_replace( "/\r|\n/", "", $b[$i] );
 for($i=1;$i<count($data);$i++){
 //$c=explode(';',$data[$i]);
 $c=explode($sep==0?';':',',$data[$i]);
-$sal='db.casos.insertOne({';
+$sal='{';
 for($j=0;$j<count($c)-1;$j++){
 $q='';
 if($c[$j]!=""){
@@ -45,10 +45,11 @@ $sal.=$b[$j].':'.$q;
 if($j<count($c)-1)
 $sal.=',' ;
 }
-$sal.='});';
-//fwrite($fp,$sal.chr(10));
+$sal.='},';
 Escribir($fp,$sal);
 }
+Escribir($fp,"]");
+
 fclose($fp);
 echo chr(10)."____________________________________________________".chr(10);
 echo "Entrada: ".$archi.".csv".chr(10);
