@@ -16,6 +16,8 @@ for r in eps1:
 #python manage.py runserver
 #http://127.0.0.1:8000/
 #python manage.py startapp pages
+#'pages.apps.PagesConfig', #Adicionar
+
 
 
 from pymongo import MongoClient 
