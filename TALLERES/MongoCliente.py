@@ -11,6 +11,11 @@ for r in eps1:
 
 #python.exe -m pip install "pymongo[srv]"
 #python -m pip install django~=4.0.0
+#django-admin startproject uno1
+#python manage.py runserver
+#http://127.0.0.1:8000/
+#python manage.py startapp pages
+
 
 from pymongo import MongoClient 
 MONGO_URI='mongodb://localhost'
