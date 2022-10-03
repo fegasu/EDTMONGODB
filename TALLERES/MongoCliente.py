@@ -1,3 +1,4 @@
+'''
 from pymongo import MongoClient 
 MONGO_URI='mongodb://localhost'
 cliente=MongoClient('mongodb://localhost')
@@ -7,7 +8,7 @@ coleccion=db['eps']
 eps1=coleccion.find()
 for r in eps1:
     print(r['ideps']+"-"+r['nombre'])
-
+'''
 
 #python.exe -m pip install "pymongo[srv]"
 #python -m pip install django~=4.0.0
